@@ -1,0 +1,11 @@
+cabal-version:      2.4
+name:               wordle
+version:            0.1.0.0
+
+executable wordle
+  main-is:          Wordle.hs
+  build-depends:    base,
+                    random,
+                    ansi-terminal
+  hs-source-dirs:   .
+  default-language: GHC2021

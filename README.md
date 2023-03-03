@@ -1,6 +1,6 @@
 # wordle
 
-Terminal-Based Wordle in Haskell
+Terminal-Based Wordle in Haskell using Model View Controller
 
 ----------------------------------------------------------------------------------------------------------
 

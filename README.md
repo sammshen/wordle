@@ -1,6 +1,5 @@
-# wordle
-
-Terminal-Based Wordle in Haskell using Model-View-Controller
+REVISIT AND IMPROVE!!    
+Terminal-Based Wordle in Haskell w/ MVC framework
 
 ----------------------------------------------------------------------------------------------------------
 
